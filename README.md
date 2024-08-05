@@ -1,16 +1,34 @@
-# news_app
+# Hello World
 
-A new Flutter project.
+Hello World is an application designed to display the latest world news across various fields and categories, with the added ability to search for specific news
 
-## Getting Started
+### The user can do:
+* **Follow the latest news:** Browse the latest news in various categories and sub-categories.
+* **Search for specific news:** Search for specific news using keywords.
+* **Change language:** Switch between Arabic and English languages.
+* **Change mode:** Choose the appropriate mode for your eyes (light or dark).
+  
+### Dependencies
 
-This project is a starting point for a Flutter application.
+#### Networking
+* Dio Package.
+* used 2 APIs
 
-A few resources to get you started if this is your first Flutter project:
+#### State Management
+* Cubit: State management solution based on BLoC for reactive UI updates.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#### Architecture
+* Adherence to Clean Code principles for maintainability.
+* Implementation of SOLID principles for robust design.
+* MVVM pattern for separation of concerns and testability.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Utilities
+* Shared Preferences: Local storage for user settings.
+* get_it: Dependency injection for managing dependencies.
+* Localization: Support for multiple languages.
+
+#### UI
+* Responsive UI for optimal user experience across devices.
+
+### Hello World UI
+<img src="https://i.postimg.cc/qRjMzH6n/hello-world.jpg" width="700" height="600">
