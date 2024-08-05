@@ -1,0 +1,102 @@
+{
+    "slogan": "Hello News , Hello World..!",
+    "skip": "Skip",
+    "discoverTitle": "Dicover",
+    "onBordingtitle1": "Choose the language",
+    
+    "onBordingtitle2": "Do you follow world news?",
+    "onBordingDescription2": "You can now view the latest news around the world from our application.",
+    
+    "onBordingtitle3": "Categories and subcategories",
+    "onBordingDescription3": "You can now view news categories such as sports - business - health - education, etc. You can also find the latest news in sub-categories such as football, basketball, the stock market, etc....",
+    
+    "discoverNavBar":"Dicover",
+    "exploreNavBar":"Explore",
+    "settingsTitle":"Settings",
+
+    "topCat":"Top",
+    "sportCat":"Sports",
+    "businessCat":"Business",
+    "educationCat":"Education",
+    "worldCat":"World",
+    "techCat":"Technology",
+    "healthCat":"Health",
+
+    "titleSubCat":"Explore",
+    "seemore":"See more",
+    
+    "topSubCat":"Top",
+
+    "sportsSubCat":"Sports",
+    "footballSubCat":"Football",
+    "basketSubCat":"Basketball",
+    "tennisSubCat":"Tennis",
+    "americanfootballSubCat":"American football",
+    "karateSubCat":"karate",
+    "racingSubCat":"Racing",
+
+    "businessSubCat":"Business",
+    "econoSubCat":"Economics",
+    "stockSubCat":"Stock market",
+    "financeSubCat":"Finance",
+    "marketingSubCat":"Marketing",
+
+    "eduSubCat":"Education",
+
+    "worldSubCat":"World",
+    "palestineSubCat":"Palestine",
+
+    "tecSubCat":"Technology",
+
+    "healthSubCat":"Health",
+
+    "lastesNewsTitle":"Latest News",
+
+    "exploreViewTitle":"Explore",
+    "searchTFF":"Search:",
+    "results":"Results",
+
+    "darkMode":"Dark Mode",
+    "lightSwitch":"Light",
+    "darkSwitch":"Dark",
+    "language":"Language",
+
+
+    "errorInternetTimeout":"Internet connection timeout",
+    "errorInternetConnection":"Check your internet connection",
+    "errorSendTimeout":"Send request timeout",
+    "errorReceiveTimeout":"Receive request timeout",
+    "errorBadCertificate":"A bad certificate with a server",
+    "error404":"Your request has not been found, please check your request or try again later",
+    "error500":"Server error, please try again later",
+    "errorNum":"Oops,  you have exceeded the permissible limit of daily news results, as it is allowed to count (200) news per day at a rate of (30) news per quarter of an hour, please try later, also you can go to the search and search for what you want from the news.",
+    "errorNumSearch":"Oops, you have exceeded the allowed limit of news results, as you are allowed daily to count (100) news from the search results at a rate of (50) news every 12 hours, please try later",
+    "errorCancel":"Your request was canceled",
+    "errorUnKnown":"Unexpected Error, please try again" ,
+    
+    "errorImage":"This news does not contain an image" ,
+    "textFormError":"Enter text to search",
+
+    "homeListEmpty":"There is no recent news about this topic today, you can choose another topic at the moment or you can go to the search",
+    "searchListEmpty":"There is no news about this topic currently. You can search for another topic, knowing you must write the name correctly without spelling errors.",
+
+    "aboutUs":"About us",
+    "overview":"Overview",
+    "overview1":"The Hello World application is a special application for news around the world in more than one field. On the home page, you will find some main search categories that you can choose from as they display the news in images. You will also find some sub-categories from which you can choose and the latest news related to them will be displayed in a list—the latest news.",
+    "overview2":"You will also find a special search page to search for any news you want.",
+    "overview3":"On the settings page, you can choose the mode (dark - light) and also choose the language (English - Arabic).",
+    "nb":"NB:",
+    "nb1":"This news has a specific daily limit that cannot be exceeded, as the main page news has a specific limit, which is 200 searches per day, with an average of 30 searches in a quarter of an hour. When this message appears, you can try again after the first quarter of an hour the next day.",
+    "nb2":"The news search page has a specific limit of 100 searches per day, with an average of 50 searches within 12 hours. When this message appears, you can try it again after 12 hours or the next day.",
+    
+    "features":"Features",
+    
+    "aboutProgrammer":"About Programmer",
+    "mohamed":"Mohamed Hossam",
+    "flutter":"Flutter Developer",
+
+    "snakBarSuccess":"Succesfully Launched",
+    "snakBarError":"Error in Launched",
+    
+    "viewLink":"View More" 
+}
