@@ -71,7 +71,7 @@
     "error500":"Server error, please try again later",
     "errorNum":"Oops,  you have exceeded the permissible limit of daily news results, as it is allowed to count (200) news per day at a rate of (30) news per quarter of an hour, please try later, also you can go to the search and search for what you want from the news.",
     "errorNumSearch":"Oops, you have exceeded the allowed limit of news results, as you are allowed daily to count (100) news from the search results at a rate of (50) news every 12 hours, please try later",
-    "errorCancel":"Your request was canceled",
+    "errorCancel":"Your request was canceled", 
     "errorUnKnown":"Unexpected Error, please try again" ,
     
     "errorImage":"This news does not contain an image" ,
