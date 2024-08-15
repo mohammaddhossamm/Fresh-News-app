@@ -1,6 +1,6 @@
-# Hello World
+# Fresh News
 
-Hello World is an application designed to display the latest world news across various fields and categories, with the added ability to search for specific news
+Fresh News is an application designed to display the latest world news across various fields and categories, with the added ability to search for specific news
 
 ### The user can do:
 * **Follow the latest news:** Browse the latest news in various categories and sub-categories.
