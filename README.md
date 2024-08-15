@@ -30,7 +30,7 @@ Fresh News is an application designed to display the latest world news across va
 #### UI
 * Responsive UI for optimal user experience across devices.
 
-### Hello World UI
+### Fresh News UI
 <img src="https://i.postimg.cc/76vktDWq/hello-world.jpg" width="700" height="600">
 <img src="https://i.postimg.cc/qBn87QkZ/hellow2.jpg" width="700" height="466">
 
